@@ -1,12 +1,17 @@
 ## Projeto Tecnologias de Acesso a Dados P3 2019.2
 
-- InstruÁıes para rodar:
+- Instru√ß√µes para rodar:
 
 * Dar clone na master;
-* Abrir o projeto no PHPStorm ou sua IDE de preferÍncia;
-* <a href="https://getcomposer.org/download/">Instalar o composer caso ainda n„o possua e adicion·-lo ao PATH.</a>;
+* Abrir o projeto no PHPStorm ou sua IDE de prefer√™ncia;
+* <a href="https://getcomposer.org/download/">Instalar o composer caso ainda n√£o possua e adicion√°-lo ao PATH.</a>;
 * Dar cd para a raiz do projeto;
 * Rodar o comando "composer install";
-* Renomear o arquivo .env.example apenas para .env e l· configurar seu banco de dados;
+* Renomear o arquivo .env.example apenas para .env e l√° configurar seu banco de dados;
 * Rodar o comando "php artisan migrate";
 * Finalmente, para executar o servidor, rodar o comando "php artisan serve";
+
+Alunos: 
+* 1620016081 | Massao Mitsunaga
+* 1820023768 | Carlos Barbosa
+* 1820023939 | √çtalo Brito
