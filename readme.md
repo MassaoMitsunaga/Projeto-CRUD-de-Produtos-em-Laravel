@@ -11,6 +11,8 @@
 * Rodar o comando "php artisan migrate";
 * Finalmente, para executar o servidor, rodar o comando "php artisan serve";
 
+- Url do projeto: http://projeto-fujioka-spi.herokuapp.com/
+
 Alunos: 
 * 1620016081 | Massao Mitsunaga
 * 1820023768 | Carlos Barbosa
